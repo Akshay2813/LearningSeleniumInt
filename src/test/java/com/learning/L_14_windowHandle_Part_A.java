@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 
-public class L_14_windowHandle {
+public class L_14_windowHandle_Part_A {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
